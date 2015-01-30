@@ -10,3 +10,4 @@ participants
 |Michal Hrusecky|Michal@Hrusecky.net|[@imiskai](twitter.com/imiskai)|[@miska](github.com/miska)|
 |Fábio Oliveira|fabio.an.oliveira+nopub@gmail.com|[@fanoliveira](twitter.com/fanoliveira)|[@fanoliveira](github.com/foliveira)|
 |Tom Gallacher|tomgallacher23+nom@gmail.com|[@tomgco](twitter.com/tomgco)|[@tomgco](github.com/tomgco)|
+|Vladimir Lushnikov|vladimir@slate-project.org|[@vladimir_lu](twitter.com/vladimir_lu)|[@vladimir-lu](github.com/vladimir-lu)|
