@@ -12,3 +12,4 @@ participants
 |Tom Gallacher|tomgallacher23+nom@gmail.com|[@tomgco](twitter.com/tomgco)|[@tomgco](github.com/tomgco)||
 |Vladimir Lushnikov|vladimir@slate-project.org|[@vladimir_lu](twitter.com/vladimir_lu)|[@vladimir-lu](github.com/vladimir-lu)||
 |Pieter Hintjens|pieter@hintjens.com|[@hintjens](twitter.com/hintjens)|[@hintjens](github.com/hintjens)|http://hintjens.com|
+|Florian Ebeling|florian.ebeling@gmail.com|[@febeling](twitter.com/febeling)|[@febeling](github.com/febeling)|http://florianebeling.com|
