@@ -15,3 +15,4 @@ participants
 |Pieter Hintjens|pieter@hintjens.com|[@hintjens](twitter.com/hintjens)|[@hintjens](github.com/hintjens)|http://hintjens.com|
 |Florian Ebeling|florian.ebeling@gmail.com|[@febeling](twitter.com/febeling)|[@febeling](github.com/febeling)|http://florianebeling.com|
 |Doron Somech|somdoron@gmail.com|[@somdoron](twitter.com/somdoron)|[@somdoron](github.com/somdoron)|http://somdoron.com|
+|Karol Hrdina|karol.hrdina@gmail.com||[@karolhrdina](github.com/karolhrdina)||
