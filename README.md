@@ -17,4 +17,4 @@ participants
 |Florian Ebeling|florian.ebeling@gmail.com|[@febeling](twitter.com/febeling)|[@febeling](github.com/febeling)|http://florianebeling.com|
 |Doron Somech|somdoron@gmail.com|[@somdoron](twitter.com/somdoron)|[@somdoron](github.com/somdoron)|http://somdoron.com|
 |Karol Hrdina|karol.hrdina@gmail.com||[@karolhrdina](github.com/karolhrdina)||
-|Alexander De Leon|me@alexdeleon.name|[@alexdeleon](github.com/alexdeleon)||
+|Alexander De Leon|me@alexdeleon.name|[@alexjdl](twitter.com/alexjdl)|[@alexdeleon](github.com/alexdeleon)||
