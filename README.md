@@ -5,7 +5,7 @@ participants
 |------|--------|---------|--------|------|
 |Artur Blanuta|artur.balanuta+no@gmail.com|[@ArturBalanuta](twitter.com/ArturBalanuta)|[@AliensGoo](github.com/ArturBalanuta)||
 |David Dias|daviddias.p@gmail.com|[@daviddias](twitter.com/daviddias)|[@diasdavid](github.com/diasdavid)||
-|Pedro Januário|prnjanuario@gmail.com|[@prnjanuario](twitter.com/prnjanuario)|[@pjanuario](github.com/pjanuario)||
+|Pedro Januário|prnjanuario@gmail.com|[@prnjanuario](twitter.com/prnjanuario)|[@pjanuario](github.com/pjanuario)|http://shared-mind.tumblr.com/|
 |Gonçalo Pestana|g6pestana@gmail.com|[@gpestana](twitter.com/gpestana)|[@gpestana](github.com/gpestana)||
 |Luke Bond|luke.n.bond@gmail.com|[@lukeb0nd](twitter.com/lukeb0nd)|[@lukebond](github.com/lukebond)||
 |Michal Hrusecky|Michal@Hrusecky.net|[@imiskai](twitter.com/imiskai)|[@miska](github.com/miska)|http://michal.hrusecky.net|
